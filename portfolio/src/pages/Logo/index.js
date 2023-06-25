@@ -6,7 +6,7 @@ function Logo() {
   return (
     <div className="logo_wrapper">
       <div className="screen" >
-        <p>kumar pranjul</p>
+        <p className="name" >Kumar Pranjul</p>
       </div>
     </div>
   );

@@ -9,8 +9,12 @@ function Navigation() {
             <div className='navbar' >
                 <div>
                     <Link to='/' className='logo' >
-                        <h2>
-                            <span>&lt;</span> Kumar Pranjul <span>&#47;</span><span>&gt;</span>
+                        <h2 >
+                            <span>&lt;</span>&nbsp; 
+                            <span className='logo-name' >
+                                Kumar Pranjul 
+                            </span>&nbsp;
+                            <span>&#47;&gt;</span>
                         </h2>
                     </Link>
                 </div>
